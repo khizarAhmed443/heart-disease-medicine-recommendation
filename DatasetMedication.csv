@@ -1,0 +1,200 @@
+Gender,Age,Pain Intensity,Swelling,Diab,Hypertensive,Cardiac,Liver Transplant,Kidney Transplant,Drugs
+male,40,severe ,Y,N,Y,Y,N,N,DrugB
+female,35,mild ,N,N,Y,N,N,N,DrugA
+male,42,normal,N,Y,Y,N,N,N,DrugA
+male,15,normal,N,N,N,N,N,N,DrugC
+female,34,normal,N,N,N,N,N,N,DrugC
+male,50,mild,N,N,Y,Y,N,N,DrugA
+male,34,severe ,N,N,Y,N,N,N,DrugA
+male,15,normal,N,N,N,N,N,N,DrugC
+female,45,mild,N,N,Y,N,N,Y,DrugA
+female,34,mild,N,N,N,Y,N,N,DrugC
+female,23,mild,N,N,Y,N,N,N,DrugC
+male,31,mild,N,N,N,N,N,N,DrugC
+male,19,mild ,N,N,N,N,N,N,DrugC
+male,20,severe ,N,N,N,N,N,N,DrugC
+male,38,normal,N,Y,N,Y,N,N,DrugC
+female,42,normal,N,N,Y,Y,N,N,DrugA
+female,13,normal,N,N,N,N,N,N,DrugC
+male,20,normal,N,N,N,N,N,N,DrugC
+male,31,normal,N,N,N,N,N,N,DrugC
+female,23,normal,N,N,N,N,N,N,DrugC
+male,24,normal,Y,N,Y,N,N,N,DrugA
+male,29,severe ,Y,N,N,N,N,N,DrugC
+male,36,normal,N,N,Y,N,N,N,DrugA
+female,20,normal,N,N,N,N,N,N,DrugC
+female,32,severe ,N,N,Y,N,N,N,DrugA
+female,21,mild,N,N,Y,N,N,N,DrugA
+female,25,mild,Y,N,N,N,N,N,DrugC
+female,28,normal,N,Y,N,N,N,N,DrugC
+female,43,normal,N,Y,Y,N,Y,N,DrugA
+female,23,mild,N,N,N,N,N,N,DrugC
+female,50,severe ,Y,Y,Y,N,Y,N,DrugA
+male,42,normal,N,Y,Y,N,N,N,DrugA
+female,29,mild,N,Y,N,N,N,N,DrugC
+female,28,severe ,N,N,Y,N,N,N,DrugA
+male,33,mild,Y,Y,Y,N,N,N,DrugA
+female,21,mild,N,N,N,N,N,N,DrugC
+male,37,mild,N,Y,N,N,N,N,DrugC
+male,37,mild,Y,N,Y,N,N,N,DrugA
+male,29,mild,N,Y,N,N,N,N,DrugC
+male,34,normal,Y,N,Y,N,N, N,DrugA
+male,25,mild,N,N,N,N,N,N,DrugC
+male,23,normal,Y,Y,N,N,N,N,DrugC
+male,56,mild,Y,N,Y,Y,N,N,DrugA
+female,23,mild,Y,Y,N,N,N,N,DrugC
+female,22,mild,N,Y,N,N,N,N,DrugC
+male,21,normal,Y,Y,N,N,N,N,DrugC
+male,14,severe ,N,Y,N,N,N,N,DrugC
+male,41,severe ,Y,N,Y,Y,N,N,DrugA
+female,43,severe ,N,Y,Y,Y,N,N,DrugA
+male,41,normal,Y,N,Y,N,N,N,DrugA
+male,12,mild,N,Y,N,N,N,N,DrugC
+male,12,normal,Y,N,N,N,N,N,DrugC
+male,23,normal,N,Y,Y,Y,N,N,DrugA
+male,32,normal,N,Y,Y,N,N,N,DrugA
+male,14,mild ,Y,N,N,N,N,N,DrugC
+male,15,mild,Y,Y,N,N,N,N,DrugC
+male,56,mild,N,N,Y,N,N,N,DrugA
+male,23,mild,Y,Y,N,N,N,N,DrugC
+male,47,normal,N,Y,Y,N,N,N,DrugA
+male,67,normal,Y,N,Y,N,Y,N,DrugA
+male,43,normal,Y,N,Y,N,N,N,DrugA
+female,13,normal,Y,N,N,N,N,N,DrugC
+female,32,normal,N,Y,Y,N,N,Y,DrugA
+male,23,normal,N,Y,N,N,N,Y,DrugC
+male,61,normal,N,Y,Y,N,N,N,DrugA
+male,29,mild,Y,Y,N,N,N,N,DrugC
+female,40,mild,Y,N,Y,N,N,N,DrugA
+female,15,mild,Y,N,N,N,N,Y,DrugC
+male,32,mild,N,N,N,N,N,N,DrugC
+female,45,severe ,Y,Y,Y,Y,N,N,DrugA
+male,26,severe ,N,Y,N,N,N,N,DrugC
+female,72,mild,Y,N,Y,Y,N,N,DrugA
+male,19,mild,Y,N,N,N,N,N,DrugC
+female,38,mild,Y,N,Y,Y,N,Y,DrugA
+male,57,normal,Y,Y,Y,Y,N,N,DrugA
+male,64,severe ,N,Y,Y,Y,N,N,DrugA
+female,53,severe ,Y,N,Y,Y,N,N,DrugA
+male,21,normal,N,Y,N,N,N,N,DrugC
+male,42,normal,N,Y,Y,Y,N,N,DrugC
+male,61,severe ,N,Y,Y,Y,N,N,DrugA
+male,35,mild,Y,N,Y,Y,N,N,DrugA
+female,77,mild,N,Y,N,Y,N,N,DrugC
+female,14,severe ,Y,N,N,N,N,N,DrugC
+female,58,severe ,N,N,Y,Y,N,N,DrugA
+male,67,severe ,Y,Y,Y,Y,N,N,DrugA
+male,48,mild ,Y,N,Y,Y,Y,Y,DrugA
+male,17,mild,Y,Y,N,N,N,Y,DrugC
+male,73,normal,N,N,Y,Y,N,N,DrugA
+male,23,normal,N,N,N,N,N,N,DrugC
+male,56,normal,N,N,Y,Y,N,N,DrugA
+male,41,mild,Y,Y,Y,N,N,N,DrugA
+male,68,mild,Y,N,Y,Y,N,N,DrugA
+male,29,severe ,Y,Y,N,N,N,N,DrugC
+male,50,mild,Y,N,Y,Y,N,N,DrugA
+female,12,mild,Y,Y,N,N,N,N,DrugC
+female,66,mild,N,N,Y,Y,N,N,DrugA
+male,39,mild,Y,Y,N,N,N,N,DrugC
+female,20,normal,N,N,N,N,N,N,DrugC
+male,75,normal,N,Y,Y,Y,N,N,DrugA
+male,62,mild,Y,N,Y,N,N,N,DrugA
+male,30,mild,N,Y,N,Y,N,N,DrugC
+male,49,severe ,Y,Y,Y,Y,N,N,DrugA
+female,28,severe ,N,N,N,N,N,N,DrugC
+female,69,severe ,Y,Y,Y,Y,N,N,DrugA
+female,18,normal,N,N,N,N,N,N,DrugC
+female,51,normal,Y,Y,Y,Y,N,N,DrugA
+male,36,mild,N,N,N,Y,N,N,DrugC
+male,63,mild,Y,Y,Y,Y,N,N,DrugA
+male,27,mild,N,N,N,N,N,N,DrugC
+male,44,mild,Y,Y,Y,Y,Y,N,DrugA
+male,70,normal,N,Y,Y,Y,N,N,DrugA
+female,59,severe ,Y,Y,N,Y,N,N,DrugC
+male,46,severe ,N,Y,Y,Y,Y,N,DrugA
+female,31,mild,Y,N,N,N,N,N,DrugC
+female,74,normal,Y,Y,Y,Y,N,N,DrugA
+female,55,normal,Y,N,Y,N,N,N,DrugA
+male,22,normal,N,Y,N,Y,N,N,DrugC
+male,60,mild ,Y,Y,Y,Y,N,Y,DrugA
+male,33,mild,N,N,N,N,N,N,DrugC
+female,15,severe ,N,N,Y,N,N,N,DrugA
+female,78,normal,N,Y,Y,Y,N,N,DrugA
+male,16,severe ,Y,N,N,N,N,N,DrugC
+male,47,mild,N,Y,Y,Y,N,N,DrugA
+male,65,mild,Y,Y,Y,Y,N,N,DrugA
+ male,24,mild,Y,Y,N,N,N,N,DrugC
+male,37,severe ,N,Y,Y,Y,N,N,DrugA
+male,54,mild,Y,Y,Y,Y,N,N,DrugA
+male,71,mild,N,Y,Y,Y,N,N,DrugA
+ male,40,normal,Y,N,Y,N,N,N,DrugA
+ male,25,mild,N,N,N,N,N,N,DrugC
+ male,52,mild,Y,Y,Y,Y,N,N,DrugA
+ male,34,normal,N,N,N,N,N,N,DrugC
+male,79,severe ,Y,Y,Y,Y,N,N,DrugA
+ male,43,mild ,N,N,Y,Y,N,N,DrugA
+male,76,severe ,Y,Y,Y,Y,N,N,DrugA
+male,13,mild,N,N,N,N,N,N,DrugC
+female,70,normal,Y,Y,Y,Y,N,N,DrugA
+female,18,normal,N,N,N,N,N,N,DrugC
+female,51,severe ,N,Y,Y,Y,N,N,DrugA
+male,34,mild,Y,N,N,N,N,N,DrugC
+male,67,mild,N,Y,Y,Y,N,N,DrugA
+male,23,mild,N,N,Y,N,N,N,DrugA
+female,60,normal,Y,Y,N,Y,N,N,DrugC
+female,26,normal,Y,N,N,N,N,N,DrugC
+female,58,normal,N,Y,Y,Y,N,N,DrugA
+female,41,normal,Y,Y,Y,N,N,N,DrugA
+male,29,mild,N,Y,N,N,N,N,DrugC
+female,74,mild,N,Y,Y,Y,N,N,DrugA
+male,22,mild,Y,N,N,N,N,N,DrugC
+female,57,severe ,N,N,Y,Y,N,N,DrugA
+male,46,severe ,Y,N,N,Y,N,N,DrugC
+female,63,mild,N,N,Y,Y,N,N,DrugA
+male,39,normal,Y,N,N,Y,N,N,DrugC
+female,19,normal,Y,N,N,N,N,N,DrugC
+female,68,normal,Y,N,Y,Y,N,N,DrugA
+female,32,severe ,N,N,Y,Y,N,N,DrugA
+male,39,normal,N,Y,Y,Y,N,N,DrugA
+male,19,mild,N,N,N,N,N,N,DrugC
+male,68,mild,N,Y,Y,Y,N,N,DrugA
+ male,32,normal,Y,N,N,Y,N,N,DrugC
+female,55,normal,Y,Y,Y,Y,N,N,DrugA
+female,35,severe ,N,Y,Y,Y,N,N,DrugA
+male,76,normal,Y,Y,Y,N,N,N,DrugA
+male,48,mild ,N,Y,Y,Y,N,N,DrugA
+male,17,mild,Y,N,N,N,N,N,DrugC
+male,54,mild,Y,Y,Y,Y,N,N,DrugA
+female,37,mild,N,N,Y,Y,N,N,DrugA
+female,71,mild,Y,Y,Y,Y,N,N,DrugA
+female,27,normal,N,N,N,N,N,N,DrugC
+female,44,mild,Y,Y,Y,Y,N,N,DrugA
+female,61,mild,N,N,Y,Y,N,N,DrugA
+male,40,normal,Y,Y,Y,N,N,N,DrugA
+male,21,mild,N,N,N,N,N,N,DrugC
+male,64,mild,Y,Y,Y,Y,N,N,DrugA
+male,42,mild,N,N,N,Y,N,N,DrugA
+female,78,normal,Y,Y,Y,Y,N,N,DrugA
+female,31,severe ,Y,N,N,N,N,N,DrugC
+female,66,normal,N,Y,Y,Y,N,N,DrugA
+male,43,severe ,Y,N,N,Y,N,N,DrugC
+male ,72,severe ,Y,Y,Y,Y,N,N,DrugA
+male,50,normal,Y,N,Y,Y,N,N,DrugA
+female,30,normal,N,Y,Y,N,N,N,DrugA
+female,75,severe,N,N,Y,Y,N,N,DrugA
+female,47,severe ,N,Y,Y,Y,N,N,DrugA
+male,16,normal,Y,N,N,N,N,N,DrugC
+male,53,mild ,N,Y,Y,Y,N,N,DrugA
+male,36,mild ,Y,Y,N,N,N,N,DrugC
+male,69,normal,N,Y,Y,Y,N,N,DrugA
+female,25,normal,N,N,N,N,N,Y,DrugC
+female,77,severe ,Y,Y,Y,Y,N,Y,DrugA
+male,33,normal,Y,N,Y,N,N,N,DrugA
+male,59,mild,N,N,Y,Y,N,N,DrugA
+male,24,severe ,Y,Y,N,N,N,N,DrugC
+male,28,mild,Y,N,N,Y,N,N,DrugC
+female,43,mild,Y,N,Y,Y,N,N,DrugA
+female,20,normal,Y,N,N,N,N,N,DrugC
+female,76,normal,N,Y,Y,Y,N,N,DrugA
+male,34,mild ,N,N,Y,N,N,N,DrugA
+male,11,mild,N,Y,Y,N,N,N,DrugA
